@@ -1,6 +1,6 @@
 # Hi 👋, I'm Houda EL MOUMOUHI
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+engineering+student;Welcome+to+my+GitHub+Profile!&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;I'm+a;Futur+Software+engineering!;&center=true)
 
 🌱 I'm a software engineering student at ENSA TANGIER, MOROCCO
 
@@ -37,6 +37,6 @@ Languages and Tools:
 
 
 
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbetiouSN&layout=compact)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=houaELM02&layout=compact)
 
-![AbetiouSN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbetiouSN&show_icons=true)
+![HouaELM02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=houaELM02&show_icons=true)
