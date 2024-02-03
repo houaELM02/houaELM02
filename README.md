@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi 👋, I'm Houda EL MOUMOUHI
 
-<!--
-**houaELM02/houaELM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+engineering+student;Welcome+to+my+GitHub+Profile!&center=true)
 
-Here are some ideas to get you started:
+🌱 I'm a software engineering student at ENSA TANGIER, MOROCCO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning and working on exciting software projects.
+
+💬 Ask me about Java, C++ , C# , web development... 
+
+📫 How to reach me: houda.elmoumouhi.pro@gmail.com
+
+💭 Currently learning about data engineering !
+
+Connect with me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/houda-el-moumouhi)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/houaELM02)
+
+Languages and Tools:
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="100">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" width="100">
+
+
+
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbetiouSN&layout=compact)
+
+![AbetiouSN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbetiouSN&show_icons=true)
