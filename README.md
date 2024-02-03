@@ -21,7 +21,7 @@ Languages and Tools:
 
 
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" width="100">
+
 
 
 
