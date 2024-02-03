@@ -1,6 +1,6 @@
 # Hi 👋, I'm Houda EL MOUMOUHI
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;I'm+a;Futur+Software+engineering!;&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Futur+Software+Engineer!;&center=true)
 
 🌱 I'm a software engineering student at ENSA TANGIER, MOROCCO
 
