@@ -1,6 +1,10 @@
 # Hi 👋, I'm Houda EL MOUMOUHI
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Futur+Software+Engineer!;&center=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=houaelm02&label=Profile%20views&color=b40e9e&style=flat" alt="houaelm02" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houaelm02" alt="houaelm02" /></a> </p>
+
 
 🌱 I'm a software engineering student at ENSA TANGIER, MOROCCO
 
