@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houaelm02" alt="houaelm02" /></a> </p>
 
 
-🌱 I'm a software engineering student at ENSA TANGIER, MOROCCO
+🌱 I'm a software engineering student
 
 💻 Currently learning and working on exciting software projects.
 
